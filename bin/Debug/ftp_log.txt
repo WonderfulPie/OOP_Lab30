@@ -1,0 +1,774 @@
+13.06.2024 19:45:49: Received line: 
+13.06.2024 19:45:49: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+13.06.2024 19:45:49: Loaded directory successfully.
+13.06.2024 19:45:49: Connected to FTP server successfully.
+13.06.2024 19:45:54: Error uploading file: /ТА Лр 1 Лутицький.docx - The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+13.06.2024 19:45:56: Error uploading file: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+13.06.2024 19:52:43: Received line: 
+13.06.2024 19:52:43: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+13.06.2024 19:52:43: Loaded directory successfully.
+13.06.2024 19:52:43: Connected to FTP server successfully.
+13.06.2024 19:52:48: Error uploading file: /Лр 1 Шпетний.docx - The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+13.06.2024 19:52:57: Error uploading file: Лр 1 Шпетний.docx - The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+13.06.2024 19:53:06: Received line: 
+13.06.2024 19:53:06: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+13.06.2024 19:53:06: Loaded directory successfully.
+13.06.2024 19:53:06: Connected to FTP server successfully.
+13.06.2024 19:59:38: Received line: 
+13.06.2024 19:59:38: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+13.06.2024 19:59:38: Loaded directory successfully.
+13.06.2024 19:59:38: Connected to FTP server successfully.
+13.06.2024 19:59:42: Uploading file: ТА Лр 1 Лутицький.docx to /ТА Лр 1 Лутицький.docx
+13.06.2024 19:59:42: Attempting to upload file to URI: ftp://26.31.197.75/ТА Лр 1 Лутицький.docx
+13.06.2024 19:59:42: Error uploading file: /ТА Лр 1 Лутицький.docx - The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+13.06.2024 19:59:49: Error uploading file: ТА Лр 1 Лутицький.docx - The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+13.06.2024 19:59:57: Received line: 
+13.06.2024 19:59:57: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+13.06.2024 19:59:57: Loaded directory successfully.
+13.06.2024 19:59:57: Connected to FTP server successfully.
+13.06.2024 20:02:20: Received line: 
+13.06.2024 20:02:20: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+13.06.2024 20:02:20: Loaded directory successfully.
+13.06.2024 20:02:20: Connected to FTP server successfully.
+13.06.2024 20:02:31: Received line: 
+13.06.2024 20:02:31: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+13.06.2024 20:02:31: Loaded directory successfully.
+13.06.2024 20:02:31: Connected to FTP server successfully.
+13.06.2024 20:02:34: Received line: 
+13.06.2024 20:02:34: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+13.06.2024 20:02:34: Loaded directory successfully.
+13.06.2024 20:02:34: Connected to FTP server successfully.
+13.06.2024 20:02:41: Uploading file: Faculty.txt to /Faculty.txt
+13.06.2024 20:02:41: Attempting to upload file to URI: ftp://26.31.197.75/Faculty.txt
+13.06.2024 20:02:41: Error uploading file: /Faculty.txt - The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+13.06.2024 20:02:44: Error uploading file: Faculty.txt - The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+13.06.2024 20:05:27: Error loading directory: Invalid URI: The hostname could not be parsed.
+13.06.2024 20:05:27: Connected to FTP server successfully.
+13.06.2024 20:05:40: Received line: 
+13.06.2024 20:05:40: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+13.06.2024 20:05:40: Loaded directory successfully.
+13.06.2024 20:05:40: Connected to FTP server successfully.
+13.06.2024 20:06:04: Error loading directory: Invalid URI: The hostname could not be parsed.
+13.06.2024 20:06:04: Connected to FTP server successfully.
+13.06.2024 20:06:18: Received line: 
+13.06.2024 20:06:18: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+13.06.2024 20:06:18: Loaded directory successfully.
+13.06.2024 20:06:18: Connected to FTP server successfully.
+13.06.2024 20:06:22: Uploading file: Timer Killer.bat to /Timer Killer.bat
+13.06.2024 20:06:22: Attempting to upload file to URI: ftp://26.31.197.75/Timer Killer.bat
+13.06.2024 20:06:23: Error uploading file: /Timer Killer.bat - The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+13.06.2024 20:06:24: Error uploading file: Timer Killer.bat - The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+14.06.2024 12:43:06: Error listing directory details: / - The remote server returned an error: (530) Not logged in.
+14.06.2024 12:43:09: Error loading directory: The remote server returned an error: (530) Not logged in.
+14.06.2024 12:43:09: Connected to FTP server successfully.
+14.06.2024 12:43:10: Error listing directory details: / - The remote server returned an error: (530) Not logged in.
+14.06.2024 12:43:14: Error loading directory: The remote server returned an error: (530) Not logged in.
+14.06.2024 12:43:14: Connected to FTP server successfully.
+14.06.2024 12:43:45: Error listing directory details: / - The remote server returned an error: (530) Not logged in.
+14.06.2024 12:43:47: Error loading directory: The remote server returned an error: (530) Not logged in.
+14.06.2024 12:43:47: Connected to FTP server successfully.
+14.06.2024 13:32:57: Error listing directory details: / - Unable to connect to the remote server
+14.06.2024 13:32:59: Error loading directory: Unable to connect to the remote server
+14.06.2024 13:32:59: Connected to FTP server successfully.
+14.06.2024 13:34:49: Received line: 
+14.06.2024 13:34:49: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 13:34:49: Loaded directory successfully.
+14.06.2024 13:34:49: Connected to FTP server successfully.
+14.06.2024 13:34:55: Uploading file: ftpd.rules to /ftpd.rules
+14.06.2024 13:34:55: Attempting to upload file to URI: ftp://26.31.197.75/ftpd.rules
+14.06.2024 13:34:55: Error uploading file: /ftpd.rules - The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+14.06.2024 13:34:57: Error uploading file: ftpd.rules - The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+14.06.2024 13:35:41: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 12:39 Main
+14.06.2024 13:35:41: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 13:35:41: Loaded directory successfully.
+14.06.2024 13:35:41: Connected to FTP server successfully.
+14.06.2024 13:35:45: Uploading file: ftpd.rules to /ftpd.rules
+14.06.2024 13:35:45: Attempting to upload file to URI: ftp://26.31.197.75/ftpd.rules
+14.06.2024 13:35:45: Error uploading file: /ftpd.rules - The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+14.06.2024 13:35:47: Error uploading file: ftpd.rules - The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+14.06.2024 13:36:00: Creating directory: /\Main/Govno
+14.06.2024 13:36:01: Made directory: /\Main/Govno - Status: 257 "/Main/" directory created.
+
+14.06.2024 13:36:02: Directory created successfully: /\Main/Govno
+14.06.2024 13:36:08: Uploading file: Faculty.txt to /Faculty.txt
+14.06.2024 13:36:08: Attempting to upload file to URI: ftp://26.31.197.75/Faculty.txt
+14.06.2024 13:36:08: Error uploading file: /Faculty.txt - The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+14.06.2024 13:36:13: Error uploading file: Faculty.txt - The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+14.06.2024 13:37:29: Uploading file: text.png to /text.png
+14.06.2024 13:37:29: Attempting to upload file to URI: ftp://26.31.197.75/text.png
+14.06.2024 13:37:30: Error uploading file: /text.png - The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+14.06.2024 13:37:31: Error uploading file: text.png - The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+14.06.2024 13:42:18: Error listing directory details: / - Unable to connect to the remote server
+14.06.2024 13:42:20: Error loading directory: Unable to connect to the remote server
+14.06.2024 13:42:20: Connected to FTP server successfully.
+14.06.2024 13:43:09: Error listing directory details: / - Unable to connect to the remote server
+14.06.2024 13:43:10: Error loading directory: Unable to connect to the remote server
+14.06.2024 13:43:10: Connected to FTP server successfully.
+14.06.2024 14:30:12: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 13:36 Main
+14.06.2024 14:30:12: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 14:30:12: Loaded directory successfully.
+14.06.2024 14:30:12: Connected to FTP server successfully.
+14.06.2024 14:30:20: Creating directory: /\Main/Test
+14.06.2024 14:30:20: Made directory: /\Main/Test - Status: 257 "/Main/" directory created.
+
+14.06.2024 14:30:21: Directory created successfully: /\Main/Test
+14.06.2024 14:30:24: Removing directory: /\Main\Test
+14.06.2024 14:30:24: Removed directory: /\Main\Test - Status: 250 Directory removed
+
+14.06.2024 14:30:25: Directory removed successfully: /\Main\Test
+14.06.2024 14:30:55: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:30 Main
+14.06.2024 14:30:55: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 14:30:55: Loaded directory successfully.
+14.06.2024 14:30:55: Connected to FTP server successfully.
+14.06.2024 14:31:03: Creating directory: /\Main/Test
+14.06.2024 14:31:03: Made directory: /\Main/Test - Status: 257 "/Main/" directory created.
+
+14.06.2024 14:31:05: Directory created successfully: /\Main/Test
+14.06.2024 14:31:34: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 Main
+14.06.2024 14:31:34: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 14:31:34: Loaded directory successfully.
+14.06.2024 14:31:34: Connected to FTP server successfully.
+14.06.2024 14:31:38: Uploading file: Лр 2 Шпетний.docx to /Лр 2 Шпетний.docx
+14.06.2024 14:31:38: Attempting to upload file to URI: ftp://26.31.197.75/Лр 2 Шпетний.docx
+14.06.2024 14:31:38: Error uploading file: /Лр 2 Шпетний.docx - The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+14.06.2024 14:31:39: Error uploading file: Лр 2 Шпетний.docx - The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+14.06.2024 14:32:45: Uploading file: Лр 2 Шпетний.docx to /Лр 2 Шпетний.docx
+14.06.2024 14:32:45: Attempting to upload file to URI: ftp://26.31.197.75/Лр 2 Шпетний.docx
+14.06.2024 14:32:46: Error uploading file: /Лр 2 Шпетний.docx - The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+14.06.2024 14:32:48: Error uploading file: Лр 2 Шпетний.docx - The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+14.06.2024 14:40:15: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 Main
+14.06.2024 14:40:15: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 14:40:15: Loaded directory successfully.
+14.06.2024 14:40:15: Connected to FTP server successfully.
+14.06.2024 14:40:20: Uploading file: ТА Лр 2 Лутицький.docx to /\Main/ТА Лр 2 Лутицький.docx
+14.06.2024 14:40:20: Attempting to upload file to URI: ftp://26.31.197.75/\Main/ТА Лр 2 Лутицький.docx
+14.06.2024 14:40:20: Error uploading file: /\Main/ТА Лр 2 Лутицький.docx - Status: 451 Upload Cannot continue, disk usage has already reached disk quotas: 0 KB
+
+14.06.2024 14:40:24: Error uploading file: ТА Лр 2 Лутицький.docx - The remote server returned an error: (451) Local error in processing.
+14.06.2024 14:42:58: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 Main
+14.06.2024 14:42:58: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 14:42:58: Loaded directory successfully.
+14.06.2024 14:42:58: Connected to FTP server successfully.
+14.06.2024 14:43:03: Uploading file: ТА Лр 2 Лутицький.docx to /\Main/ТА Лр 2 Лутицький.docx
+14.06.2024 14:43:03: Attempting to upload file to URI: ftp://26.31.197.75/\Main/ТА Лр 2 Лутицький.docx
+14.06.2024 14:43:03: Error uploading file: /\Main/ТА Лр 2 Лутицький.docx - Status: 451 Upload Cannot continue, disk usage has already reached disk quotas: 0 KB
+
+14.06.2024 14:43:05: Error uploading file: ТА Лр 2 Лутицький.docx - The remote server returned an error: (451) Local error in processing.
+14.06.2024 14:44:21: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 Main
+14.06.2024 14:44:21: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 14:44:21: Loaded directory successfully.
+14.06.2024 14:44:21: Connected to FTP server successfully.
+14.06.2024 14:44:25: Uploading file: Лр 2 Шпетний.docx to //Main/Лр 2 Шпетний.docx
+14.06.2024 14:44:25: Attempting to upload file to URI: ftp://26.31.197.75//Main/Лр 2 Шпетний.docx
+14.06.2024 14:44:25: Error uploading file: //Main/Лр 2 Шпетний.docx - Status: 451 Upload Cannot continue, disk usage has already reached disk quotas: 0 KB
+
+14.06.2024 14:44:27: Error uploading file: Лр 2 Шпетний.docx - The remote server returned an error: (451) Local error in processing.
+14.06.2024 14:46:30: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 Main
+14.06.2024 14:46:30: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 14:46:30: Loaded directory successfully.
+14.06.2024 14:46:30: Connected to FTP server successfully.
+14.06.2024 14:46:34: Uploading file: ТА Лр 2 Лутицький.docx to //Main/ТА Лр 2 Лутицький.docx
+14.06.2024 14:46:34: Attempting to upload file to URI: ftp://26.31.197.75//Main/ТА Лр 2 Лутицький.docx
+14.06.2024 14:46:34: Attempting to upload file to URI: ftp://26.31.197.75//Main/ТА Лр 2 Лутицький.docx
+14.06.2024 14:46:34: Error uploading file: //Main/ТА Лр 2 Лутицький.docx - Status: 451 Upload Cannot continue, disk usage has already reached disk quotas: 0 KB
+
+14.06.2024 14:46:35: Error uploading file: ТА Лр 2 Лутицький.docx - The remote server returned an error: (451) Local error in processing.
+14.06.2024 14:47:12: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 Main
+14.06.2024 14:47:12: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 14:47:12: Loaded directory successfully.
+14.06.2024 14:47:12: Connected to FTP server successfully.
+14.06.2024 14:51:25: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 13:36 User
+14.06.2024 14:51:25: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 Main
+14.06.2024 14:51:25: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 14:51:25: Loaded directory successfully.
+14.06.2024 14:51:25: Connected to FTP server successfully.
+14.06.2024 14:51:29: Uploading file: ТА Лр 2 Лутицький.docx to //User/ТА Лр 2 Лутицький.docx
+14.06.2024 14:51:29: Attempting to upload file to URI: ftp://26.31.197.75//User/ТА Лр 2 Лутицький.docx
+14.06.2024 14:51:29: Attempting to upload file to URI: ftp://26.31.197.75//User/ТА Лр 2 Лутицький.docx
+14.06.2024 14:51:29: Uploaded file: //User/ТА Лр 2 Лутицький.docx - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 14:51:31: File uploaded successfully: ТА Лр 2 Лутицький.docx
+14.06.2024 14:52:18: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:51 User
+14.06.2024 14:52:18: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 Main
+14.06.2024 14:52:18: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 14:52:18: Loaded directory successfully.
+14.06.2024 14:52:18: Connected to FTP server successfully.
+14.06.2024 14:56:57: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:51 User
+14.06.2024 14:56:57: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 Main
+14.06.2024 14:56:57: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 14:56:57: Loaded directory successfully.
+14.06.2024 14:56:57: Connected to FTP server successfully.
+14.06.2024 14:57:54: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:57 User
+14.06.2024 14:57:54: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 Main
+14.06.2024 14:57:54: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 14:57:54: Loaded directory successfully.
+14.06.2024 14:57:54: Connected to FTP server successfully.
+14.06.2024 15:01:05: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:57 User
+14.06.2024 15:01:05: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 Main
+14.06.2024 15:01:05: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:01:05: Loaded directory successfully.
+14.06.2024 15:01:05: Connected to FTP server successfully.
+14.06.2024 15:01:11: Error deleting file: /\User\ - The requested URI is invalid for this FTP command.
+14.06.2024 15:01:16: Error deleting file: The requested URI is invalid for this FTP command.
+14.06.2024 15:01:19: Error deleting file: /\Main - The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+14.06.2024 15:01:23: Error deleting file: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+14.06.2024 15:01:28: Creating directory: /\Main\/Test
+14.06.2024 15:01:29: Error making directory: /\Main\/Test - The remote server returned an error: (521) 521 Cannot create directory
+.
+14.06.2024 15:01:33: Error creating directory: The remote server returned an error: (521) 521 Cannot create directory
+.
+14.06.2024 15:01:39: Creating directory: /\User/Make
+14.06.2024 15:01:40: Made directory: /\User/Make - Status: 257 "/User/" directory created.
+
+14.06.2024 15:01:42: Directory created successfully: /\User/Make
+14.06.2024 15:06:40: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 User
+14.06.2024 15:06:40: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 Main
+14.06.2024 15:06:40: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:06:40: Loaded directory successfully.
+14.06.2024 15:06:40: Connected to FTP server successfully.
+14.06.2024 15:09:45: Error loading directory: Invalid URI: The hostname could not be parsed.
+14.06.2024 15:09:45: Connected to FTP server successfully.
+14.06.2024 15:10:00: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 User
+14.06.2024 15:10:00: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 Main
+14.06.2024 15:10:00: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:10:00: Loaded directory successfully.
+14.06.2024 15:10:00: Connected to FTP server successfully.
+14.06.2024 15:10:01: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 .
+14.06.2024 15:10:01: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 ..
+14.06.2024 15:10:01: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 Make
+14.06.2024 15:10:01: Received line: -rw-rw-rw- 1 ftp ftp            30522 Jun 14 14:51 �� �� 2 ���������.docx
+14.06.2024 15:10:01: Listed directory details: //User - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:10:01: Loaded directory successfully.
+14.06.2024 15:10:03: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 .
+14.06.2024 15:10:03: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 ..
+14.06.2024 15:10:03: Listed directory details: //User/Make - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:10:03: Loaded directory successfully.
+14.06.2024 15:10:04: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 .
+14.06.2024 15:10:04: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 ..
+14.06.2024 15:10:04: Listed directory details: //User/Make/. - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:10:04: Loaded directory successfully.
+14.06.2024 15:10:05: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 .
+14.06.2024 15:10:05: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 ..
+14.06.2024 15:10:05: Listed directory details: //User/Make/./. - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:10:05: Loaded directory successfully.
+14.06.2024 15:10:06: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 .
+14.06.2024 15:10:06: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 ..
+14.06.2024 15:10:06: Listed directory details: //User/Make/././. - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:10:06: Loaded directory successfully.
+14.06.2024 15:10:07: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 .
+14.06.2024 15:10:07: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 ..
+14.06.2024 15:10:07: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 Make
+14.06.2024 15:10:07: Received line: -rw-rw-rw- 1 ftp ftp            30522 Jun 14 14:51 �� �� 2 ���������.docx
+14.06.2024 15:10:07: Listed directory details: //User/. - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:10:07: Loaded directory successfully.
+14.06.2024 15:10:08: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 .
+14.06.2024 15:10:08: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 ..
+14.06.2024 15:10:08: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 Make
+14.06.2024 15:10:08: Received line: -rw-rw-rw- 1 ftp ftp            30522 Jun 14 14:51 �� �� 2 ���������.docx
+14.06.2024 15:10:08: Listed directory details: //User/./. - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:10:08: Loaded directory successfully.
+14.06.2024 15:10:08: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 .
+14.06.2024 15:10:08: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 ..
+14.06.2024 15:10:08: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 Make
+14.06.2024 15:10:08: Received line: -rw-rw-rw- 1 ftp ftp            30522 Jun 14 14:51 �� �� 2 ���������.docx
+14.06.2024 15:10:08: Listed directory details: //User/././. - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:10:08: Loaded directory successfully.
+14.06.2024 15:10:11: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 .
+14.06.2024 15:10:11: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 ..
+14.06.2024 15:10:11: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 Make
+14.06.2024 15:10:11: Received line: -rw-rw-rw- 1 ftp ftp            30522 Jun 14 14:51 �� �� 2 ���������.docx
+14.06.2024 15:10:11: Listed directory details: //User/Make/.. - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:10:11: Loaded directory successfully.
+14.06.2024 15:10:13: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 .
+14.06.2024 15:10:13: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 ..
+14.06.2024 15:10:13: Listed directory details: //User/Make/../Make - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:10:13: Loaded directory successfully.
+14.06.2024 15:10:15: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 User
+14.06.2024 15:10:15: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 Main
+14.06.2024 15:10:15: Listed directory details: //User/Make/../.. - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:10:15: Loaded directory successfully.
+14.06.2024 15:12:22: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 User
+14.06.2024 15:12:22: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 Main
+14.06.2024 15:12:22: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:12:22: Loaded directory successfully.
+14.06.2024 15:12:22: Connected to FTP server successfully.
+14.06.2024 15:12:24: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 .
+14.06.2024 15:12:24: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 ..
+14.06.2024 15:12:24: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 Make
+14.06.2024 15:12:24: Received line: -rw-rw-rw- 1 ftp ftp            30522 Jun 14 14:51 �� �� 2 ���������.docx
+14.06.2024 15:12:24: Listed directory details: //User - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:12:24: Loaded directory successfully.
+14.06.2024 15:12:25: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 .
+14.06.2024 15:12:25: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 ..
+14.06.2024 15:12:25: Listed directory details: //User/Make - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:12:25: Loaded directory successfully.
+14.06.2024 15:12:26: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 .
+14.06.2024 15:12:26: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 ..
+14.06.2024 15:12:26: Listed directory details: //User/Make/. - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:12:26: Loaded directory successfully.
+14.06.2024 15:12:27: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 .
+14.06.2024 15:12:27: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 ..
+14.06.2024 15:12:27: Listed directory details: //User/Make/./. - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:12:27: Loaded directory successfully.
+14.06.2024 15:12:28: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 .
+14.06.2024 15:12:28: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 ..
+14.06.2024 15:12:28: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 Make
+14.06.2024 15:12:28: Received line: -rw-rw-rw- 1 ftp ftp            30522 Jun 14 14:51 �� �� 2 ���������.docx
+14.06.2024 15:12:28: Listed directory details: //User/Make/././.. - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:12:28: Loaded directory successfully.
+14.06.2024 15:12:29: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 .
+14.06.2024 15:12:29: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 ..
+14.06.2024 15:12:29: Listed directory details: //User/Make/././../Make - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:12:29: Loaded directory successfully.
+14.06.2024 15:12:30: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 .
+14.06.2024 15:12:30: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 ..
+14.06.2024 15:12:30: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 Make
+14.06.2024 15:12:30: Received line: -rw-rw-rw- 1 ftp ftp            30522 Jun 14 14:51 �� �� 2 ���������.docx
+14.06.2024 15:12:30: Listed directory details: //User/Make/././../Make/.. - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:12:30: Loaded directory successfully.
+14.06.2024 15:12:33: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 .
+14.06.2024 15:12:33: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 ..
+14.06.2024 15:12:33: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 Make
+14.06.2024 15:12:33: Received line: -rw-rw-rw- 1 ftp ftp            30522 Jun 14 14:51 �� �� 2 ���������.docx
+14.06.2024 15:12:33: Listed directory details: //User/. - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:12:33: Loaded directory successfully.
+14.06.2024 15:12:35: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 User
+14.06.2024 15:12:35: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 Main
+14.06.2024 15:12:35: Listed directory details: //User/.. - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:12:35: Loaded directory successfully.
+14.06.2024 15:12:38: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 .
+14.06.2024 15:12:38: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 ..
+14.06.2024 15:12:38: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 Govno
+14.06.2024 15:12:38: Received line: -rw-rw-rw- 1 ftp ftp             4284 Jun 14 14:51 log.txt
+14.06.2024 15:12:38: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 Test
+14.06.2024 15:12:38: Listed directory details: //Main - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:12:38: Loaded directory successfully.
+14.06.2024 15:12:42: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 .
+14.06.2024 15:12:42: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 ..
+14.06.2024 15:12:42: Listed directory details: //Main/Test - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:12:42: Loaded directory successfully.
+14.06.2024 15:15:17: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 User
+14.06.2024 15:15:17: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 Main
+14.06.2024 15:15:17: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:15:17: Loaded directory successfully.
+14.06.2024 15:15:17: Connected to FTP server successfully.
+14.06.2024 15:15:18: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 .
+14.06.2024 15:15:18: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 ..
+14.06.2024 15:15:18: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 Make
+14.06.2024 15:15:18: Received line: -rw-rw-rw- 1 ftp ftp            30522 Jun 14 14:51 �� �� 2 ���������.docx
+14.06.2024 15:15:18: Listed directory details: //User - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:15:18: Loaded directory successfully.
+14.06.2024 15:15:21: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 .
+14.06.2024 15:15:21: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 ..
+14.06.2024 15:15:21: Listed directory details: //User/Make - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:15:21: Loaded directory successfully.
+14.06.2024 15:15:23: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 .
+14.06.2024 15:15:23: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 ..
+14.06.2024 15:15:23: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 Govno
+14.06.2024 15:15:23: Received line: -rw-rw-rw- 1 ftp ftp             4828 Jun 14 15:12 log.txt
+14.06.2024 15:15:23: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 Test
+14.06.2024 15:15:23: Listed directory details: //Main - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:15:23: Loaded directory successfully.
+14.06.2024 15:15:26: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 .
+14.06.2024 15:15:26: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 ..
+14.06.2024 15:15:26: Listed directory details: //Main/Test - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:15:26: Loaded directory successfully.
+14.06.2024 15:16:13: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 User
+14.06.2024 15:16:13: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 Main
+14.06.2024 15:16:13: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:16:13: Loaded directory successfully.
+14.06.2024 15:16:13: Connected to FTP server successfully.
+14.06.2024 15:16:14: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 .
+14.06.2024 15:16:14: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 ..
+14.06.2024 15:16:14: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 Make
+14.06.2024 15:16:14: Received line: -rw-rw-rw- 1 ftp ftp            30522 Jun 14 14:51 ТА Лр 2 Лутицький.docx
+14.06.2024 15:16:14: Listed directory details: //User - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:16:14: Loaded directory successfully.
+14.06.2024 15:33:58: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 .
+14.06.2024 15:33:58: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 ..
+14.06.2024 15:33:58: Listed directory details: //User/Make - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:33:58: Loaded directory successfully.
+14.06.2024 15:33:58: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 .
+14.06.2024 15:33:58: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 ..
+14.06.2024 15:33:58: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:02 Govno
+14.06.2024 15:33:58: Received line: -rw-rw-rw- 1 ftp ftp             4828 Jun 14 15:12 log.txt
+14.06.2024 15:33:58: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 Test
+14.06.2024 15:33:58: Listed directory details: //Main - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:33:58: Loaded directory successfully.
+14.06.2024 15:34:05: Downloading file: /\Main\log.txt
+14.06.2024 15:34:05: Error retrieving file: /\Main\log.txt - The remote server returned an error: (451) Local error in processing.
+14.06.2024 15:34:07: Error downloading file: /\Main\log.txt - The remote server returned an error: (451) Local error in processing.
+14.06.2024 15:34:12: Downloading file: /\User\ТА Лр 2 Лутицький.docx
+14.06.2024 15:34:13: Retrieved file: /\User\ТА Лр 2 Лутицький.docx - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:34:14: File downloaded successfully: /\User\ТА Лр 2 Лутицький.docx
+14.06.2024 15:34:33: Downloading file: /\User\ТА Лр 2 Лутицький.docx
+14.06.2024 15:34:33: Retrieved file: /\User\ТА Лр 2 Лутицький.docx - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:34:35: File downloaded successfully: /\User\ТА Лр 2 Лутицький.docx
+14.06.2024 15:35:48: Creating directory: /\User/Тест
+14.06.2024 15:35:48: Made directory: /\User/Тест - Status: 257 "/User/" directory created.
+
+14.06.2024 15:35:50: Directory created successfully: /\User/Тест
+14.06.2024 15:35:56: Error deleting file: /\User\Тест - The remote server returned an error: (451) Local error in processing.
+14.06.2024 15:35:58: Error deleting file: The remote server returned an error: (451) Local error in processing.
+14.06.2024 15:36:01: Removing directory: /\User\Тест
+14.06.2024 15:36:02: Removed directory: /\User\Тест - Status: 250 Directory removed
+
+14.06.2024 15:36:03: Directory removed successfully: /\User\Тест
+14.06.2024 15:36:05: Deleted file: /\User\ТА Лр 2 Лутицький.docx - Status: 250 Deleted file "ТА Лр 2 Лутицький.docx".
+
+14.06.2024 15:36:06: File deleted successfully: /\User\ТА Лр 2 Лутицький.docx
+14.06.2024 15:39:58: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:36 User
+14.06.2024 15:39:58: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 Main
+14.06.2024 15:39:58: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:39:58: Loaded directory successfully.
+14.06.2024 15:39:58: Connected to FTP server successfully.
+14.06.2024 15:39:59: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:36 .
+14.06.2024 15:39:59: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:36 ..
+14.06.2024 15:39:59: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 Make
+14.06.2024 15:39:59: Listed directory details: //User - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:39:59: Loaded directory successfully.
+14.06.2024 15:40:00: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 .
+14.06.2024 15:40:00: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:01 ..
+14.06.2024 15:40:00: Listed directory details: //User/Make - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:40:00: Loaded directory successfully.
+14.06.2024 15:40:05: Uploading file: Лр 2 Шпетний.docx to //User/Make/Лр 2 Шпетний.docx
+14.06.2024 15:40:05: Attempting to upload file to URI: ftp://26.31.197.75//User/Make/Лр 2 Шпетний.docx
+14.06.2024 15:40:05: Attempting to upload file to URI: ftp://26.31.197.75//User/Make/Лр 2 Шпетний.docx
+14.06.2024 15:40:05: Uploaded file: //User/Make/Лр 2 Шпетний.docx - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:40:06: File uploaded successfully: Лр 2 Шпетний.docx
+14.06.2024 15:40:16: Renaming file from //User/Make to //Testing
+14.06.2024 15:40:16: Error renaming file from //User/Make to //Testing - The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+14.06.2024 15:40:19: Error renaming file: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+14.06.2024 15:40:28: Renaming file from //User to //Testing
+14.06.2024 15:40:29: Error renaming file from //User to //Testing - The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+14.06.2024 15:40:32: Error renaming file: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+14.06.2024 15:44:22: Renaming file from //User/Make to //65
+14.06.2024 15:44:23: Error renaming file from //User/Make to //65 - The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+14.06.2024 15:44:26: Error renaming file: The remote server returned an error: (550) File unavailable (e.g., file not found, no access).
+14.06.2024 15:52:00: Error loading directory: Invalid URI: The hostname could not be parsed.
+14.06.2024 15:52:00: Connected to FTP server successfully.
+14.06.2024 15:52:19: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:36 User
+14.06.2024 15:52:19: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 Main
+14.06.2024 15:52:19: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:52:19: Loaded directory successfully.
+14.06.2024 15:52:19: Connected to FTP server successfully.
+14.06.2024 15:52:20: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:36 .
+14.06.2024 15:52:20: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:36 ..
+14.06.2024 15:52:20: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:40 Make
+14.06.2024 15:52:20: Listed directory details: //User - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:52:20: Loaded directory successfully.
+14.06.2024 15:52:21: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:40 .
+14.06.2024 15:52:21: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:40 ..
+14.06.2024 15:52:21: Received line: -rw-rw-rw- 1 ftp ftp            30933 Jun 14 15:40 Лр 2 Шпетний.docx
+14.06.2024 15:52:21: Listed directory details: //User/Make - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:52:21: Loaded directory successfully.
+14.06.2024 15:52:40: Renaming file from //User/Make/Лр 2 Шпетний.docx to //User/Make/Lab2.docx
+14.06.2024 15:52:41: Renamed file from //User/Make/Лр 2 Шпетний.docx to Lab2.docx - Status: 250 File renamed
+
+14.06.2024 15:52:42: File renamed from //User/Make/Лр 2 Шпетний.docx to //User/Make/Lab2.docx
+14.06.2024 15:52:42: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:52 .
+14.06.2024 15:52:42: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:52 ..
+14.06.2024 15:52:42: Received line: -rw-rw-rw- 1 ftp ftp            30933 Jun 14 15:40 Lab2.docx
+14.06.2024 15:52:42: Listed directory details: //User/Make - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 15:52:42: Loaded directory successfully.
+14.06.2024 15:52:50: Renaming file from //User/Make to /test
+14.06.2024 15:52:53: Error renaming file: Value cannot be null.
+Parameter name: directoryPath
+14.06.2024 15:52:58: Renaming file from //User/Make to /fsgfdgbdfg
+14.06.2024 15:53:00: Error renaming file: Value cannot be null.
+Parameter name: directoryPath
+14.06.2024 17:52:51: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:36 User
+14.06.2024 17:52:51: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 Main
+14.06.2024 17:52:51: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 17:52:51: Loaded directory successfully.
+14.06.2024 17:52:51: Connected to FTP server successfully.
+14.06.2024 17:52:54: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:36 .
+14.06.2024 17:52:54: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:36 ..
+14.06.2024 17:52:54: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:52 Make
+14.06.2024 17:52:54: Listed directory details: //User - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 17:52:54: Loaded directory successfully.
+14.06.2024 17:52:54: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:52 .
+14.06.2024 17:52:54: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:52 ..
+14.06.2024 17:52:54: Received line: -rw-rw-rw- 1 ftp ftp            30933 Jun 14 15:40 Lab2.docx
+14.06.2024 17:52:54: Listed directory details: //User/Make - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 17:52:54: Loaded directory successfully.
+14.06.2024 17:53:25: Uploading file: text.png to //User/Make/text.png
+14.06.2024 17:53:25: Stored file: //User/Make/text.png - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 17:53:25: File uploaded successfully: text.png
+14.06.2024 17:53:25: Uploading file: image.png to //User/Make/image.png
+14.06.2024 17:53:25: Stored file: //User/Make/image.png - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 17:53:25: File uploaded successfully: image.png
+14.06.2024 17:53:25: Uploading file: openedfolder.png to //User/Make/openedfolder.png
+14.06.2024 17:53:25: Stored file: //User/Make/openedfolder.png - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 17:53:25: File uploaded successfully: openedfolder.png
+14.06.2024 17:53:25: Uploading file: closedfolder.png to //User/Make/closedfolder.png
+14.06.2024 17:53:25: Stored file: //User/Make/closedfolder.png - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 17:53:25: File uploaded successfully: closedfolder.png
+14.06.2024 17:53:25: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 17:53 .
+14.06.2024 17:53:25: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 17:53 ..
+14.06.2024 17:53:25: Received line: -rw-rw-rw- 1 ftp ftp             7652 Jun 14 17:53 closedfolder.png
+14.06.2024 17:53:25: Received line: -rw-rw-rw- 1 ftp ftp            76232 Jun 14 17:53 image.png
+14.06.2024 17:53:25: Received line: -rw-rw-rw- 1 ftp ftp            30933 Jun 14 15:40 Lab2.docx
+14.06.2024 17:53:25: Received line: -rw-rw-rw- 1 ftp ftp            19772 Jun 14 17:53 openedfolder.png
+14.06.2024 17:53:25: Received line: -rw-rw-rw- 1 ftp ftp             5237 Jun 14 17:53 text.png
+14.06.2024 17:53:25: Listed directory details: //User/Make - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 17:53:25: Loaded directory successfully.
+14.06.2024 18:00:20: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:36 User
+14.06.2024 18:00:20: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 Main
+14.06.2024 18:00:20: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 18:00:20: Loaded directory successfully.
+14.06.2024 18:00:20: Connected to FTP server successfully.
+14.06.2024 18:03:10: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 .
+14.06.2024 18:03:10: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 ..
+14.06.2024 18:03:10: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:36 Govno
+14.06.2024 18:03:10: Received line: -rw-rw-rw- 1 ftp ftp             5980 Jun 14 17:36 log.txt
+14.06.2024 18:03:10: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 Test
+14.06.2024 18:03:10: Listed directory details: //Main - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 18:03:10: Loaded directory successfully.
+14.06.2024 18:03:11: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:36 .
+14.06.2024 18:03:11: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:36 ..
+14.06.2024 18:03:11: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 17:53 Make
+14.06.2024 18:03:11: Listed directory details: //User - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 18:03:11: Loaded directory successfully.
+14.06.2024 18:03:12: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 17:53 .
+14.06.2024 18:03:12: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 17:53 ..
+14.06.2024 18:03:12: Received line: -rw-rw-rw- 1 ftp ftp             7652 Jun 14 17:53 closedfolder.png
+14.06.2024 18:03:12: Received line: -rw-rw-rw- 1 ftp ftp            76232 Jun 14 17:53 image.png
+14.06.2024 18:03:12: Received line: -rw-rw-rw- 1 ftp ftp            30933 Jun 14 15:40 Lab2.docx
+14.06.2024 18:03:12: Received line: -rw-rw-rw- 1 ftp ftp            19772 Jun 14 17:53 openedfolder.png
+14.06.2024 18:03:12: Received line: -rw-rw-rw- 1 ftp ftp             5237 Jun 14 17:53 text.png
+14.06.2024 18:03:12: Listed directory details: //User/Make - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 18:03:12: Loaded directory successfully.
+14.06.2024 18:03:16: Deleted file: //User/Make/closedfolder.png - Status: 250 Deleted file "closedfolder.png".
+
+14.06.2024 18:03:17: File deleted successfully: //User/Make/closedfolder.png
+14.06.2024 18:03:17: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 18:03 .
+14.06.2024 18:03:17: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 18:03 ..
+14.06.2024 18:03:17: Received line: -rw-rw-rw- 1 ftp ftp            76232 Jun 14 17:53 image.png
+14.06.2024 18:03:17: Received line: -rw-rw-rw- 1 ftp ftp            30933 Jun 14 15:40 Lab2.docx
+14.06.2024 18:03:17: Received line: -rw-rw-rw- 1 ftp ftp            19772 Jun 14 17:53 openedfolder.png
+14.06.2024 18:03:17: Received line: -rw-rw-rw- 1 ftp ftp             5237 Jun 14 17:53 text.png
+14.06.2024 18:03:17: Listed directory details: //User/Make - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 18:03:17: Loaded directory successfully.
+14.06.2024 18:03:38: Renaming file from //User/Make/image.png to //User/Make/imgae.jpg
+14.06.2024 18:03:38: Renamed file from //User/Make/image.png to imgae.jpg - Status: 250 File renamed
+
+14.06.2024 18:03:39: File renamed from //User/Make/image.png to //User/Make/imgae.jpg
+14.06.2024 18:03:40: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 18:03 .
+14.06.2024 18:03:40: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 18:03 ..
+14.06.2024 18:03:40: Received line: -rw-rw-rw- 1 ftp ftp            76232 Jun 14 17:53 imgae.jpg
+14.06.2024 18:03:40: Received line: -rw-rw-rw- 1 ftp ftp            30933 Jun 14 15:40 Lab2.docx
+14.06.2024 18:03:40: Received line: -rw-rw-rw- 1 ftp ftp            19772 Jun 14 17:53 openedfolder.png
+14.06.2024 18:03:40: Received line: -rw-rw-rw- 1 ftp ftp             5237 Jun 14 17:53 text.png
+14.06.2024 18:03:40: Listed directory details: //User/Make - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 18:03:40: Loaded directory successfully.
+14.06.2024 18:10:26: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:36 User
+14.06.2024 18:10:26: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 Main
+14.06.2024 18:10:26: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 18:10:26: Loaded directory successfully.
+14.06.2024 18:10:26: Connected to FTP server successfully.
+14.06.2024 18:10:32: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:36 .
+14.06.2024 18:10:32: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:36 ..
+14.06.2024 18:10:32: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 18:03 Make
+14.06.2024 18:10:32: Listed directory details: //User - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 18:10:32: Loaded directory successfully.
+14.06.2024 18:10:33: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 18:03 .
+14.06.2024 18:10:33: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 18:03 ..
+14.06.2024 18:10:33: Received line: -rw-rw-rw- 1 ftp ftp            76232 Jun 14 17:53 imgae.jpg
+14.06.2024 18:10:33: Received line: -rw-rw-rw- 1 ftp ftp            30933 Jun 14 15:40 Lab2.docx
+14.06.2024 18:10:33: Received line: -rw-rw-rw- 1 ftp ftp            19772 Jun 14 17:53 openedfolder.png
+14.06.2024 18:10:33: Received line: -rw-rw-rw- 1 ftp ftp             5237 Jun 14 17:53 text.png
+14.06.2024 18:10:33: Listed directory details: //User/Make - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 18:10:33: Loaded directory successfully.
+14.06.2024 18:10:46: Deleted file: //User/Make/imgae.jpg - Status: 250 Deleted file "imgae.jpg".
+
+14.06.2024 18:10:57: File deleted successfully: //User/Make/imgae.jpg
+14.06.2024 18:10:57: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 18:10 .
+14.06.2024 18:10:57: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 18:10 ..
+14.06.2024 18:10:57: Received line: -rw-rw-rw- 1 ftp ftp            30933 Jun 14 15:40 Lab2.docx
+14.06.2024 18:10:57: Received line: -rw-rw-rw- 1 ftp ftp            19772 Jun 14 17:53 openedfolder.png
+14.06.2024 18:10:57: Received line: -rw-rw-rw- 1 ftp ftp             5237 Jun 14 17:53 text.png
+14.06.2024 18:10:57: Listed directory details: //User/Make - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 18:10:57: Loaded directory successfully.
+14.06.2024 18:11:09: Downloading file: /\User\Make\openedfolder.png
+14.06.2024 18:11:09: Retrieved file: /\User\Make\openedfolder.png - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 18:11:21: File downloaded successfully: /\User\Make\openedfolder.png
+14.06.2024 18:11:41: Creating directory: //User/Make/SuperDir
+14.06.2024 18:11:41: Made directory: //User/Make/SuperDir - Status: 257 "/User/Make/" directory created.
+
+14.06.2024 18:11:52: Directory created successfully: //User/Make/SuperDir
+14.06.2024 18:11:52: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 18:11 .
+14.06.2024 18:11:52: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 18:11 ..
+14.06.2024 18:11:52: Received line: -rw-rw-rw- 1 ftp ftp            30933 Jun 14 15:40 Lab2.docx
+14.06.2024 18:11:52: Received line: -rw-rw-rw- 1 ftp ftp            19772 Jun 14 17:53 openedfolder.png
+14.06.2024 18:11:52: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 18:11 SuperDir
+14.06.2024 18:11:52: Received line: -rw-rw-rw- 1 ftp ftp             5237 Jun 14 17:53 text.png
+14.06.2024 18:11:52: Listed directory details: //User/Make - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 18:11:52: Loaded directory successfully.
+14.06.2024 18:11:54: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 18:11 .
+14.06.2024 18:11:54: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 18:11 ..
+14.06.2024 18:11:54: Listed directory details: //User/Make/SuperDir - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 18:11:54: Loaded directory successfully.
+14.06.2024 18:12:18: Uploading file: Faculty.txt to //User/Make/SuperDir/Faculty.txt
+14.06.2024 18:12:18: Stored file: //User/Make/SuperDir/Faculty.txt - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 18:12:18: File uploaded successfully: Faculty.txt
+14.06.2024 18:12:18: Uploading file: Timer.cmd to //User/Make/SuperDir/Timer.cmd
+14.06.2024 18:12:18: Stored file: //User/Make/SuperDir/Timer.cmd - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 18:12:18: File uploaded successfully: Timer.cmd
+14.06.2024 18:12:18: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 18:12 .
+14.06.2024 18:12:18: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 18:12 ..
+14.06.2024 18:12:18: Received line: -rw-rw-rw- 1 ftp ftp            11524 Jun 14 18:12 Faculty.txt
+14.06.2024 18:12:18: Received line: -rw-rw-rw- 1 ftp ftp               30 Jun 14 18:12 Timer.cmd
+14.06.2024 18:12:18: Listed directory details: //User/Make/SuperDir - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 18:12:18: Loaded directory successfully.
+14.06.2024 18:12:51: Renaming file from //User/Make/SuperDir/Timer.cmd to //User/Make/SuperDir/SuperTimer.cmd
+14.06.2024 18:12:51: Renamed file from //User/Make/SuperDir/Timer.cmd to SuperTimer.cmd - Status: 250 File renamed
+
+14.06.2024 18:12:52: File renamed from //User/Make/SuperDir/Timer.cmd to //User/Make/SuperDir/SuperTimer.cmd
+14.06.2024 18:12:53: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 18:12 .
+14.06.2024 18:12:53: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 18:12 ..
+14.06.2024 18:12:53: Received line: -rw-rw-rw- 1 ftp ftp            11524 Jun 14 18:12 Faculty.txt
+14.06.2024 18:12:53: Received line: -rw-rw-rw- 1 ftp ftp               30 Jun 14 18:12 SuperTimer.cmd
+14.06.2024 18:12:53: Listed directory details: //User/Make/SuperDir - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 18:12:53: Loaded directory successfully.
+14.06.2024 18:13:12: Deleted file: //User/Make/SuperDir/SuperTimer.cmd - Status: 250 Deleted file "SuperTimer.cmd".
+
+14.06.2024 18:13:14: File deleted successfully: //User/Make/SuperDir/SuperTimer.cmd
+14.06.2024 18:13:14: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 18:13 .
+14.06.2024 18:13:14: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 18:13 ..
+14.06.2024 18:13:15: Received line: -rw-rw-rw- 1 ftp ftp            11524 Jun 14 18:12 Faculty.txt
+14.06.2024 18:13:15: Listed directory details: //User/Make/SuperDir - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 18:13:15: Loaded directory successfully.
+14.06.2024 18:13:23: Removing directory: //User/Make/SuperDir
+14.06.2024 18:13:24: Error removing directory: //User/Make/SuperDir - The remote server returned an error: (451) Local error in processing.
+14.06.2024 18:13:26: Error removing directory: The remote server returned an error: (451) Local error in processing.
+14.06.2024 18:13:31: Deleted file: //User/Make/SuperDir/Faculty.txt - Status: 250 Deleted file "Faculty.txt".
+
+14.06.2024 18:13:32: File deleted successfully: //User/Make/SuperDir/Faculty.txt
+14.06.2024 18:13:32: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 18:11 .
+14.06.2024 18:13:32: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 18:11 ..
+14.06.2024 18:13:32: Received line: -rw-rw-rw- 1 ftp ftp            30933 Jun 14 15:40 Lab2.docx
+14.06.2024 18:13:32: Received line: -rw-rw-rw- 1 ftp ftp            19772 Jun 14 17:53 openedfolder.png
+14.06.2024 18:13:32: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 18:13 SuperDir
+14.06.2024 18:13:32: Received line: -rw-rw-rw- 1 ftp ftp             5237 Jun 14 17:53 text.png
+14.06.2024 18:13:32: Listed directory details: //User/Make - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 18:13:32: Loaded directory successfully.
+14.06.2024 18:13:33: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 18:13 .
+14.06.2024 18:13:33: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 18:13 ..
+14.06.2024 18:13:33: Listed directory details: //User/Make/SuperDir - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 18:13:33: Loaded directory successfully.
+14.06.2024 18:13:35: Removing directory: //User/Make/SuperDir
+14.06.2024 18:13:35: Removed directory: //User/Make/SuperDir - Status: 250 Directory removed
+
+14.06.2024 18:13:46: Directory removed successfully: //User/Make/SuperDir
+14.06.2024 18:13:46: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 18:13 .
+14.06.2024 18:13:46: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 18:13 ..
+14.06.2024 18:13:46: Received line: -rw-rw-rw- 1 ftp ftp            30933 Jun 14 15:40 Lab2.docx
+14.06.2024 18:13:46: Received line: -rw-rw-rw- 1 ftp ftp            19772 Jun 14 17:53 openedfolder.png
+14.06.2024 18:13:46: Received line: -rw-rw-rw- 1 ftp ftp             5237 Jun 14 17:53 text.png
+14.06.2024 18:13:46: Listed directory details: //User/Make - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 18:13:46: Loaded directory successfully.
+14.06.2024 18:14:24: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 15:36 User
+14.06.2024 18:14:24: Received line: drw-rw-rw- 1 ftp ftp                0 Jun 14 14:31 Main
+14.06.2024 18:14:24: Listed directory details: / - Status: 226 Transfer complete (0.000 KB/s).
+
+14.06.2024 18:14:24: Loaded directory successfully.
+14.06.2024 18:14:24: Connected to FTP server successfully.

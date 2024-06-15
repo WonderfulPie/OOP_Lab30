@@ -1,0 +1,20 @@
+D:\Coding\Visual Studio\VS projects\Lab 30 Danylko\bin\Debug\Lab 30 Danylko.exe.config
+D:\Coding\Visual Studio\VS projects\Lab 30 Danylko\bin\Debug\Lab 30 Danylko.exe
+D:\Coding\Visual Studio\VS projects\Lab 30 Danylko\bin\Debug\Lab 30 Danylko.pdb
+D:\Coding\Visual Studio\VS projects\Lab 30 Danylko\obj\Debug\Lab 30 Danylko.csproj.AssemblyReference.cache
+D:\Coding\Visual Studio\VS projects\Lab 30 Danylko\obj\Debug\Lab_30_Danylko.Properties.Resources.resources
+D:\Coding\Visual Studio\VS projects\Lab 30 Danylko\obj\Debug\Lab 30 Danylko.csproj.GenerateResource.cache
+D:\Coding\Visual Studio\VS projects\Lab 30 Danylko\obj\Debug\Lab 30 Danylko.csproj.CoreCompileInputs.cache
+D:\Coding\Visual Studio\VS projects\Lab 30 Danylko\obj\Debug\Lab 30 Danylko.exe
+D:\Coding\Visual Studio\VS projects\Lab 30 Danylko\obj\Debug\Lab 30 Danylko.pdb
+D:\Coding\Visual Studio\VS projects\Lab 30 Danylko\obj\Debug\Lab_30_Danylko.MainForm.resources
+D:\University\2 курс\4 семестр\ООП\Lab30\Lab 30 Danylko\bin\Debug\Lab 30 Danylko.exe.config
+D:\University\2 курс\4 семестр\ООП\Lab30\Lab 30 Danylko\bin\Debug\Lab 30 Danylko.exe
+D:\University\2 курс\4 семестр\ООП\Lab30\Lab 30 Danylko\bin\Debug\Lab 30 Danylko.pdb
+D:\University\2 курс\4 семестр\ООП\Lab30\Lab 30 Danylko\obj\Debug\Lab 30 Danylko.csproj.AssemblyReference.cache
+D:\University\2 курс\4 семестр\ООП\Lab30\Lab 30 Danylko\obj\Debug\Lab_30_Danylko.MainForm.resources
+D:\University\2 курс\4 семестр\ООП\Lab30\Lab 30 Danylko\obj\Debug\Lab_30_Danylko.Properties.Resources.resources
+D:\University\2 курс\4 семестр\ООП\Lab30\Lab 30 Danylko\obj\Debug\Lab 30 Danylko.csproj.GenerateResource.cache
+D:\University\2 курс\4 семестр\ООП\Lab30\Lab 30 Danylko\obj\Debug\Lab 30 Danylko.csproj.CoreCompileInputs.cache
+D:\University\2 курс\4 семестр\ООП\Lab30\Lab 30 Danylko\obj\Debug\Lab 30 Danylko.exe
+D:\University\2 курс\4 семестр\ООП\Lab30\Lab 30 Danylko\obj\Debug\Lab 30 Danylko.pdb
